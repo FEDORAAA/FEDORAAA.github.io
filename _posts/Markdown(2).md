@@ -1,0 +1,39 @@
+---
+layout: article
+title:  "学习笔记(2)"
+date:   2018-1-4 22:07:50 +0800
+categories: notes_tech Jekyll
+image:
+  teaser: bear.jpg
+  feature: bear.jpg
+---
+
+##信息可视化
+
+
+- 散播渠道利弊
+YouTube作为搜索平台的优势，意味着你的视频内容更容易通过网络搜索被发现，尤其是如果你总是提供视频的完整转录以及视频文件本身
+Facebook视频的主要优势就在于能够利用大型社交媒体观众的能力，而在24小时内，参与的参与度几乎为零
+Vimeo热衷于在视频制作行业中遵循高质量的视频演示服务。Vimeo吸引富有媒体经验的通信专业人员。这比YouTube的播放器更小众，更容易控制，尤其是有能力嵌入视频与高品质的视频的设置
+
+- 轻量级视频制作准备装备
+摄像机 Video camera
+三脚架 Tripod
+麦克风 Microphones 
+ [Lavalier麦克风]（简称：“lav mics”)是一种小型的麦克风，你会在电视上看到接受采访，舞台上演讲等人别在衬衫或者领子上
+ [Shotgun麦克风]是定向的，它们的灵敏度沿着麦克风主体的长轴向前递增直至最大。
+ 灯光Lights 我们建议至少有一盏500瓦的灯，有时直接指向这个主体，但更多的时候，会以柔和的光线从一个白色的小照片灯伞上反射过来。在采访中，这一单光足以消除眼睛周围的阴影，在下巴下方，为看起来更清晰的视频提供足够的“火花”，如果你有时间。把第二个250瓦的光放在主光的对面，将会消除更多的阴影。
+
+- 一个典型的三到四分钟的简短访谈视频的一般结构。
+
+Title graphic-标题图形  lower third-下沿字幕
+Closing graphic-结束语图片
+B-roll-外景拍摄场地
+Interview video-采访视频
+Interview audio-采访音频
+Introductory concepts-介绍性概念
+Major points-主要观点
+What it all means-这都意味着什么
+Music (sometimes)-音乐（有时）
+Exit music-退出音乐
+Video, audio, and  graphic   components-视频、音频和图形组件
