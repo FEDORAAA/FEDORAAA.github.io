@@ -1,6 +1,6 @@
 ---
 layout: article
-title:  "tableau竟然可以用来=="
+title:  "tableau竟然可以用来"
 date:   2018-1-4 22:07:50 +0800
 categories: notes_tech Jekyll
 image:
