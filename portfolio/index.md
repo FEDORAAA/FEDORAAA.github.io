@@ -1,13 +1,13 @@
 ---
 layout: archive
 title: "网页设计作品集"
-date: 2017-12-30T11:40:45-04:00
+date: 2018-1-1T14:25:45-04:00
 modified:
 excerpt: 
 tags: []
 image: 
   feature: timg1.gif
-  teaser:
+  teaser:
 ---
 
 
@@ -15,4 +15,4 @@ image:
 {% for post in site.categories.portfolio %}
   {% include post-grid.html %}
 {% endfor %}
-</div><!-- /.tiles 把所有categories 有 portfolio 的列出來-->
+</div><!-- /.tiles 把所有categories 有 portfolio 的列出来-->
