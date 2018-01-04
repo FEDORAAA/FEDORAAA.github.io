@@ -1,22 +1,24 @@
 # Site navigation links
 
 
-- title: 学习笔记
-  url: /notes_tech Jekyll/
+- title: 网页设计笔记
+  url: /posts/rwd/
   excerpt: "学习笔记"
   image: timg.gif
   
+  
+- title: 信息可视化笔记
+  url: /posts/infovis/
+  excerpt: "学习笔记"
+  image: timg2.gif   
+  
 - title: 网页设计作品集
-  url: /i18nl10n/
+  url: /portfolio/
   excerpt: "网页设计的个人作品集"
   image: timg1.gif
 
 - title: 信息可视化作品集
-  url: /SDG/
+  url: /posts/infovis/
   excerpt: "信息可视化的个人作品集"
   image: timg3.gif
 
-- title: 联络我
-  url: /contact/
-  excerpt: "联络我"
-  image: timg2.gif
