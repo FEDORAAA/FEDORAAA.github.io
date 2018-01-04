@@ -1,13 +1,13 @@
 ---
 layout: archive
 title: "学习笔记"
-date: 2018-1-14T14:25:45-04:00
+date: 2018-1-1T14:25:45-04:00
 modified:
-excerpt: "分为网页设计笔记和信息可视化笔记"
+excerpt: "分为Web笔记和信息可视化笔记"
 tags: []
 image: 
-  feature: timg.gif
-  teaser:
+  feature: notes.gif
+  teaser:
 ---
 
 
