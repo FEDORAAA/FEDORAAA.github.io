@@ -4,8 +4,8 @@ title:  "如何用Tableau制作可视化图表"
 date:   2018-1-4 14:01:50 +0800
 categories: posts infovis infovisnotes
 image:
-  teaser: b(1).jpg
-  feature: b(1).jpg
+  teaser: b (1).jpg
+  feature: b (1).jpg
 ---
 
 - Tableau支持多种数据文件格式与多种数据库，excel、mysql、oracle等方式。用户根据数据源选择连接方式，左侧连接方式自主选择。
