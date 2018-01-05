@@ -4,8 +4,8 @@ title:  "tableau竟然可以用来"
 date:   2018-1-5 14:01:50 +0800
 categories: posts infovis infovisnotes
 image:
-  teaser: bear2_20180104024514.jpg
-  feature: bear2_20180104024514.jpg
+  teaser: tableau2.jpg
+  feature: tableau2.jpg
 ---
 1、写书<br></b>几个人你一章我一章共同修改一本书，或是几个出版社的编辑对新书进行校对，利用这个神器就可以随时看到哪里出现了问题和更改。如果想自己写书的话 gitbook 也是不错的选择
 
