@@ -7,6 +7,9 @@ image:
   teaser: tableau1.jpg
   feature: tableau1.jpg
 ---
+手把手
+
+
 
 - Tableau支持多种数据文件格式与多种数据库，excel、mysql、oracle等方式。用户根据数据源选择连接方式，左侧连接方式自主选择。
 <img src="http://img.blog.csdn.net/20160324153436306?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQv/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center" alt="">
