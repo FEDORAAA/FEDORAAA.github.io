@@ -7,7 +7,6 @@ tags: []
 title: "信息可视化作品集"
 image: 
   feature: 仪表板1.png
-  title: "信息可视化作品集"
   teaser:
 ---
 
