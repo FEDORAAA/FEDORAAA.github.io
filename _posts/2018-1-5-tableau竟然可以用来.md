@@ -4,8 +4,8 @@ title:  "tableau竟然可以用来"
 date:   2018-1-5 14:01:50 +0800
 categories: posts infovis infovisnotes
 image:
-  teaser: tableau2.jpg
-  feature: tableau2.jpg
+  teaser: 
+  feature: 
 ---
 多的是你不知道的事
 
