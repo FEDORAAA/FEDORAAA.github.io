@@ -6,7 +6,7 @@ modified:
 excerpt: 
 tags: []
 image: 
-  feature: infovis visualization1.gif
+  feature: 仪表板1.png
   teaser:
 ---
 
