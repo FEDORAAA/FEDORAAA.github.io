@@ -4,7 +4,9 @@ date: 2018-1-1T14:25:45-04:00
 modified:
 excerpt: 
 tags: []
-title: "信息可视化作品集"<p>
+title: "信息可视化作品集"
+
+
 image: 
   feature: 仪表板1.png
   teaser:
