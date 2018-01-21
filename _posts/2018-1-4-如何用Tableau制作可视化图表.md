@@ -4,8 +4,8 @@ title:  "如何用Tableau制作可视化图表"
 date:   2018-1-4 14:01:50 +0800
 categories: posts infovis infovisnotes
 image:
-  teaser: 
-  feature: 
+  teaser: tableau2.jpg
+  feature: tableau2.jpg
 ---
 ## 手把手
 
